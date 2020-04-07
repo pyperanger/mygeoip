@@ -11,8 +11,8 @@ You can fork this project freely, I recommend read [github.com/oschwald/geoip2-g
 
 ### Installation
 ```
-git clone https://github.com/pyperanger/MyGeoIP.git
-cd MyGeoIP
+git clone https://github.com/pyperanger/mygeoip.git
+cd mygeoip
 go get ./...
 go build
 ```
