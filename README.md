@@ -6,7 +6,7 @@ Simple and Custom HTTP Server with MyIP + Geolocation written in Go.<br>
 ```
 YOUR-IP, Country, City
 ```
-You can fork this project freely, I recommend read github.com/oschwald/geoip2-golang documentation. 
+You can fork this project freely, I recommend read [github.com/oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) documentation. 
 
 ### Installation
 ```
@@ -26,5 +26,5 @@ go get ./...
 ```
 
 #### Dependencies/Ref
-GeoIP: github.com/oschwald/geoip2-golang<br>
-go-daemon: github.com/sevlyar/go-daemon
+GeoIP: [github.com/oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang)<br>
+go-daemon: [github.com/sevlyar/go-daemon](https://github.com/sevlyar/go-daemon)
