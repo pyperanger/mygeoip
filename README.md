@@ -28,6 +28,3 @@ go get ./...
 #### Dependencies/Ref
 GeoIP: [github.com/oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang)<br>
 go-daemon: [github.com/sevlyar/go-daemon](https://github.com/sevlyar/go-daemon)
-
-
-- Pype
