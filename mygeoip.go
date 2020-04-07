@@ -3,6 +3,7 @@ package main
 import (
  "flag"
  "fmt"
+ "strings"
  "github.com/oschwald/geoip2-golang"
  "github.com/sevlyar/go-daemon"
  "io/ioutil"
