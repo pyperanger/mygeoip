@@ -4,7 +4,7 @@ Simple and Custom HTTP Server with MyIP + Geolocation written in Go.<br>
 
 ### Default Return
 ```
-IP-SERVER, Country, City
+YOUR-IP, Country, City
 ```
 You can fork this project freely, I recommend read github.com/oschwald/geoip2-golang documentation. 
 
